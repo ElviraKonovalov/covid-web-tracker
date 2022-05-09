@@ -1,4 +1,4 @@
-# COMP353 Warm Up Project
+# COVID WEB TRACKER
 This is the warm up project for COMP 353 Databases. The goal is to create a simple web interface communicating with a MySQL database
 
 Course: COMP 353 of Winter 2021
